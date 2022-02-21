@@ -1,2 +1,2 @@
 FROM tomcat
-COPY webapp.war /usr/local/tomcat/webapps/
+COPY logic-ops-lab-libs-release/webapp.war /usr/local/tomcat/webapps/
