@@ -1,2 +1,2 @@
 FROM tomcat
-COPY /home/kumar/workspace/job1/webapp/target /usr/local/tomcat/webapps/
+COPY webapp/target/webapp.war /usr/local/tomcat/webapps/
